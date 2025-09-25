@@ -26,7 +26,6 @@
 1. Клонируем репозиторий:
     ```bash
     git clone https://github.com/yourusername/royfamily-parser.git
-    cd royfamily-parser
 2. Устанавливаем зависимости:
     ```bash
     pip install -r requirements.txt
