@@ -31,7 +31,7 @@
     pip install -r requirements.txt
 3. Запуск GUI:
     ```bash
-   - python gui.py
+    python gui.py
 4. Настройка:
     - Введите ссылку на категорию товаров
 
